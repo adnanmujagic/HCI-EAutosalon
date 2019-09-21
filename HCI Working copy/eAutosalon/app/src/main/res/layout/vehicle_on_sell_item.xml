@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/card1"
+    android:layout_width="match_parent"
+    android:layout_height="130dp"
+    android:background="@drawable/listing_cards"
+    android:padding="5dp"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    android:layout_marginTop="10dp"
+    tools:layout_editor_absoluteX="0dp"
+    tools:layout_editor_absoluteY="16dp">
+
+        <ImageView
+            android:id="@+id/imgVehicleImage"
+            android:layout_width="180dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal"
+            android:background="#ffffff"
+            android:scaleType="centerCrop"
+            app:srcCompat="@drawable/ic_image_black_24dp" />
+
+        <TextView
+            android:id="@+id/txtVehicleId"
+            android:layout_width="118dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="190dp"
+            android:visibility="gone"
+            android:textColor="@color/colorPrimaryText"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/txtCarTitle"
+            android:layout_width="118dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="190dp"
+            android:text="VW Golf 5"
+            android:textColor="@color/colorPrimaryText"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/txtCarDescription"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txtCarTitle"
+            android:layout_marginLeft="190dp"
+            android:text="3.0 TDI Street version"
+            android:textColor="@color/colorSecondaryText" />
+
+        <ImageView
+            android:id="@+id/btnRemoveVehicleFromSale"
+            android:layout_width="34dp"
+            android:layout_height="36dp"
+            android:tint="@color/colorPrimaryDark"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            app:srcCompat="@drawable/ic_clear_black_24dp" />
+
+        <TextView
+            android:id="@+id/txtCarPrice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="190dp"
+            android:layout_marginTop="90dp"
+            android:text="€  10 500"
+            android:textColor="@color/colorPrimaryText"
+            android:textSize="18sp" />
+
+</RelativeLayout>

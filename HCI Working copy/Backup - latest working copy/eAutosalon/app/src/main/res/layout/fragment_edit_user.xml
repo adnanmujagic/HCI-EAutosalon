@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layout_edit_user"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="20dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".fragments.EditUserFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.constraint.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <ImageView
+                android:id="@+id/img_user_image_placeholder"
+                android:layout_width="174dp"
+                android:layout_height="174dp"
+                android:layout_marginTop="60dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.497"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                android:background="@drawable/circle"
+                app:srcCompat="@mipmap/profile_image_round" />
+
+            <Button
+                android:id="@+id/btn_uploadImage"
+                android:layout_width="143dp"
+                android:layout_height="41dp"
+                android:layout_marginTop="15dp"
+                android:background="@color/colorAccent"
+                android:text="Upload image"
+                android:textColor="@color/colorWhite"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/img_user_image_placeholder" />
+
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/txt_username"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="40dp"
+                android:theme="@style/TextLabel"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/btn_uploadImage">
+
+                <android.support.design.widget.TextInputEditText
+                    android:id="@+id/edit_username"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Username" />
+            </android.support.design.widget.TextInputLayout>
+
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/txt_firstName"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:theme="@style/TextLabel"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/txt_username">
+
+                <android.support.design.widget.TextInputEditText
+                    android:id="@+id/edit_firstName"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="First name" />
+            </android.support.design.widget.TextInputLayout>
+
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/txt_lastName"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:theme="@style/TextLabel"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/txt_firstName">
+
+                <android.support.design.widget.TextInputEditText
+                    android:id="@+id/edit_lastName"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Last name" />
+            </android.support.design.widget.TextInputLayout>
+
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/txt_email"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:theme="@style/TextLabel"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/txt_lastName">
+
+                <android.support.design.widget.TextInputEditText
+                    android:id="@+id/edit_email"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="textEmailAddress"
+                    android:hint="Email" />
+            </android.support.design.widget.TextInputLayout>
+
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/txt_phoneNumber"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:theme="@style/TextLabel"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/txt_email">
+
+                <android.support.design.widget.TextInputEditText
+                    android:id="@+id/edit_phoneNumber"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="phone"
+                    android:hint="Phone number" />
+            </android.support.design.widget.TextInputLayout>
+
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/txt_address1"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:theme="@style/TextLabel"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/txt_phoneNumber">
+
+                <android.support.design.widget.TextInputEditText
+                    android:id="@+id/edit_address1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="textMultiLine"
+                    android:hint="Address 1" />
+            </android.support.design.widget.TextInputLayout>
+
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/txt_password"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:theme="@style/TextLabel"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/txt_address1">
+
+                <android.support.design.widget.TextInputEditText
+                    android:id="@+id/edit_password"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="textPassword"
+                    android:hint="New password" />
+            </android.support.design.widget.TextInputLayout>
+
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/txt_repeatPassword"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:theme="@style/TextLabel"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/txt_password">
+
+                <android.support.design.widget.TextInputEditText
+                    android:id="@+id/edit_repeatPassword"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="textPassword"
+                    android:hint="Repeat password" />
+            </android.support.design.widget.TextInputLayout>
+
+            <Button
+                android:id="@+id/btn_save"
+                android:layout_width="143dp"
+                android:layout_height="41dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="40dp"
+                android:background="@color/colorAccent"
+                android:text="Save changes"
+                android:textColor="@color/colorWhite"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/txt_repeatPassword" />
+
+        </android.support.constraint.ConstraintLayout>
+    </ScrollView>
+
+
+
+</android.support.constraint.ConstraintLayout>

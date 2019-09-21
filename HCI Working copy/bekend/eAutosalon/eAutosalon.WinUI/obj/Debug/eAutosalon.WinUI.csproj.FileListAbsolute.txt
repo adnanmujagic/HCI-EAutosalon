@@ -1,0 +1,46 @@
+C:\Users\Lenovo Legion\Desktop\eAutosalon\eAutosalon\eAutosalon.WinUI\obj\Debug\eAutosalon.WinUI.csprojAssemblyReference.cache
+C:\Users\Lenovo Legion\Desktop\eAutosalon\eAutosalon\eAutosalon.WinUI\obj\Debug\eAutosalon.WinUI.Properties.Resources.resources
+C:\Users\Lenovo Legion\Desktop\eAutosalon\eAutosalon\eAutosalon.WinUI\obj\Debug\eAutosalon.WinUI.csproj.GenerateResource.cache
+C:\Users\Lenovo Legion\Desktop\eAutosalon\eAutosalon\eAutosalon.WinUI\obj\Debug\eAutosalon.WinUI.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Legion\Desktop\eAutosalon\eAutosalon\eAutosalon.WinUI\bin\Debug\eAutosalon.WinUI.exe.config
+C:\Users\Lenovo Legion\Desktop\eAutosalon\eAutosalon\eAutosalon.WinUI\bin\Debug\eAutosalon.WinUI.exe
+C:\Users\Lenovo Legion\Desktop\eAutosalon\eAutosalon\eAutosalon.WinUI\bin\Debug\eAutosalon.WinUI.pdb
+C:\Users\Lenovo Legion\Desktop\eAutosalon\eAutosalon\eAutosalon.WinUI\bin\Debug\Flurl.dll
+C:\Users\Lenovo Legion\Desktop\eAutosalon\eAutosalon\eAutosalon.WinUI\bin\Debug\Flurl.Http.dll
+C:\Users\Lenovo Legion\Desktop\eAutosalon\eAutosalon\eAutosalon.WinUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo Legion\Desktop\eAutosalon\eAutosalon\eAutosalon.WinUI\bin\Debug\Flurl.xml
+C:\Users\Lenovo Legion\Desktop\eAutosalon\eAutosalon\eAutosalon.WinUI\bin\Debug\Flurl.Http.xml
+C:\Users\Lenovo Legion\Desktop\eAutosalon\eAutosalon\eAutosalon.WinUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo Legion\Desktop\eAutosalon\eAutosalon\eAutosalon.WinUI\obj\Debug\eAutosalon.WinUI.csproj.CopyComplete
+C:\Users\Lenovo Legion\Desktop\eAutosalon\eAutosalon\eAutosalon.WinUI\obj\Debug\eAutosalon.WinUI.exe
+C:\Users\Lenovo Legion\Desktop\eAutosalon\eAutosalon\eAutosalon.WinUI\obj\Debug\eAutosalon.WinUI.pdb
+C:\Users\Lenovo Legion\Desktop\eAutosalon\eAutosalon\eAutosalon.WinUI\bin\Debug\eAutosalon.Model.dll
+C:\Users\Lenovo Legion\Desktop\eAutosalon\eAutosalon\eAutosalon.WinUI\bin\Debug\eAutosalon.Model.pdb
+C:\Users\Lenovo Legion\Desktop\eAutosalon\eAutosalon\eAutosalon.WinUI\obj\Debug\eAutosalon.WinUI.frmUsers.resources
+C:\Users\Lenovo Legion\Desktop\eAutosalon\eAutosalon\eAutosalon.WinUI\obj\Debug\eAutosalon.WinUI.frmIndex.resources
+C:\Users\Lenovo Legion\Desktop\eAutosalon\eAutosalon\eAutosalon.WinUI\obj\Debug\eAutosalon.WinUI.frmUserDetails.resources
+C:\Users\Lenovo Legion\Desktop\eAutosalon\eAutosalon\eAutosalon.WinUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Lenovo Legion\Desktop\eAutosalon\eAutosalon\eAutosalon.WinUI\obj\Debug\eAutosalon.WinUI.exe.config
+C:\Users\Lenovo Legion\Desktop\eAutosalon - Copy\eAutosalon\eAutosalon.WinUI\obj\Debug\eAutosalon.WinUI.csprojAssemblyReference.cache
+C:\Users\Lenovo Legion\Desktop\eAutosalon - Copy\eAutosalon\eAutosalon.WinUI\obj\Debug\eAutosalon.WinUI.exe.config
+C:\Users\Lenovo Legion\Desktop\eAutosalon - Copy\eAutosalon\eAutosalon.WinUI\obj\Debug\eAutosalon.WinUI.frmIndex.resources
+C:\Users\Lenovo Legion\Desktop\eAutosalon - Copy\eAutosalon\eAutosalon.WinUI\obj\Debug\eAutosalon.WinUI.frmUserDetails.resources
+C:\Users\Lenovo Legion\Desktop\eAutosalon - Copy\eAutosalon\eAutosalon.WinUI\obj\Debug\eAutosalon.WinUI.frmUsers.resources
+C:\Users\Lenovo Legion\Desktop\eAutosalon - Copy\eAutosalon\eAutosalon.WinUI\obj\Debug\eAutosalon.WinUI.Properties.Resources.resources
+C:\Users\Lenovo Legion\Desktop\eAutosalon - Copy\eAutosalon\eAutosalon.WinUI\obj\Debug\eAutosalon.WinUI.csproj.GenerateResource.cache
+C:\Users\Lenovo Legion\Desktop\eAutosalon - Copy\eAutosalon\eAutosalon.WinUI\obj\Debug\eAutosalon.WinUI.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Legion\Desktop\eAutosalon - Copy\eAutosalon\eAutosalon.WinUI\obj\Debug\eAutosalon.WinUI.exe
+C:\Users\Lenovo Legion\Desktop\eAutosalon - Copy\eAutosalon\eAutosalon.WinUI\obj\Debug\eAutosalon.WinUI.pdb
+C:\Users\Lenovo Legion\Desktop\eAutosalon - Copy\eAutosalon\eAutosalon.WinUI\bin\Debug\eAutosalon.WinUI.exe.config
+C:\Users\Lenovo Legion\Desktop\eAutosalon - Copy\eAutosalon\eAutosalon.WinUI\bin\Debug\eAutosalon.WinUI.exe
+C:\Users\Lenovo Legion\Desktop\eAutosalon - Copy\eAutosalon\eAutosalon.WinUI\bin\Debug\eAutosalon.WinUI.pdb
+C:\Users\Lenovo Legion\Desktop\eAutosalon - Copy\eAutosalon\eAutosalon.WinUI\bin\Debug\eAutosalon.Model.dll
+C:\Users\Lenovo Legion\Desktop\eAutosalon - Copy\eAutosalon\eAutosalon.WinUI\bin\Debug\Flurl.dll
+C:\Users\Lenovo Legion\Desktop\eAutosalon - Copy\eAutosalon\eAutosalon.WinUI\bin\Debug\Flurl.Http.dll
+C:\Users\Lenovo Legion\Desktop\eAutosalon - Copy\eAutosalon\eAutosalon.WinUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo Legion\Desktop\eAutosalon - Copy\eAutosalon\eAutosalon.WinUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Lenovo Legion\Desktop\eAutosalon - Copy\eAutosalon\eAutosalon.WinUI\bin\Debug\eAutosalon.Model.pdb
+C:\Users\Lenovo Legion\Desktop\eAutosalon - Copy\eAutosalon\eAutosalon.WinUI\bin\Debug\Flurl.xml
+C:\Users\Lenovo Legion\Desktop\eAutosalon - Copy\eAutosalon\eAutosalon.WinUI\bin\Debug\Flurl.Http.xml
+C:\Users\Lenovo Legion\Desktop\eAutosalon - Copy\eAutosalon\eAutosalon.WinUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo Legion\Desktop\eAutosalon - Copy\eAutosalon\eAutosalon.WinUI\obj\Debug\eAutosalon.WinUI.csproj.CopyComplete
