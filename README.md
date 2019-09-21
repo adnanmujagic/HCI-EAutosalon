@@ -1,2 +1,2 @@
 # HCI-EAutosalon
- HCI Project for school
+ HCI Project for faculty
