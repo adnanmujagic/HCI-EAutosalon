@@ -1,9 +1,0 @@
-C:\Users\Lenovo Legion\Desktop\eAutosalon\eAutosalon\eAutosalon.Model\bin\Debug\netcoreapp2.0\eAutosalon.Model.deps.json
-C:\Users\Lenovo Legion\Desktop\eAutosalon\eAutosalon\eAutosalon.Model\bin\Debug\netcoreapp2.0\eAutosalon.Model.dll
-C:\Users\Lenovo Legion\Desktop\eAutosalon\eAutosalon\eAutosalon.Model\bin\Debug\netcoreapp2.0\eAutosalon.Model.pdb
-C:\Users\Lenovo Legion\Desktop\eAutosalon\eAutosalon\eAutosalon.Model\obj\Debug\netcoreapp2.0\eAutosalon.Model.csprojAssemblyReference.cache
-C:\Users\Lenovo Legion\Desktop\eAutosalon\eAutosalon\eAutosalon.Model\obj\Debug\netcoreapp2.0\eAutosalon.Model.csproj.CoreCompileInputs.cache
-C:\Users\Lenovo Legion\Desktop\eAutosalon\eAutosalon\eAutosalon.Model\obj\Debug\netcoreapp2.0\eAutosalon.Model.AssemblyInfoInputs.cache
-C:\Users\Lenovo Legion\Desktop\eAutosalon\eAutosalon\eAutosalon.Model\obj\Debug\netcoreapp2.0\eAutosalon.Model.AssemblyInfo.cs
-C:\Users\Lenovo Legion\Desktop\eAutosalon\eAutosalon\eAutosalon.Model\obj\Debug\netcoreapp2.0\eAutosalon.Model.dll
-C:\Users\Lenovo Legion\Desktop\eAutosalon\eAutosalon\eAutosalon.Model\obj\Debug\netcoreapp2.0\eAutosalon.Model.pdb

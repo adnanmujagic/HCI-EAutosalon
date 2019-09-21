@@ -1,0 +1,6 @@
+C:\Users\Lenovo Legion\Desktop\eAutosalon\eAutosalon\eAutosalon.Models\bin\Debug\netstandard2.0\eAutosalon.Models.deps.json
+C:\Users\Lenovo Legion\Desktop\eAutosalon\eAutosalon\eAutosalon.Models\bin\Debug\netstandard2.0\eAutosalon.Models.dll
+C:\Users\Lenovo Legion\Desktop\eAutosalon\eAutosalon\eAutosalon.Models\obj\Debug\netstandard2.0\eAutosalon.Models.csprojAssemblyReference.cache
+C:\Users\Lenovo Legion\Desktop\eAutosalon\eAutosalon\eAutosalon.Models\obj\Debug\netstandard2.0\eAutosalon.Models.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Legion\Desktop\eAutosalon\eAutosalon\eAutosalon.Models\obj\Debug\netstandard2.0\eAutosalon.Models.AssemblyInfoInputs.cache
+C:\Users\Lenovo Legion\Desktop\eAutosalon\eAutosalon\eAutosalon.Models\obj\Debug\netstandard2.0\eAutosalon.Models.AssemblyInfo.cs
