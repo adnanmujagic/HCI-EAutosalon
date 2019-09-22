@@ -127,14 +127,26 @@ public class RegisterActivity extends AppCompatActivity {
         newUser.ConfirmPassword = txtRepeatPassword.getText().toString();
         newUser.CityId = cityId;
 
-        MyRunnable<UserVM> myCallback = new MyRunnable<UserVM>() {
-            @Override
-            public void run(UserVM user) {
-                redirectToLogin();
-            }
-        };
+        if(newUser.Password.isEmpty() || newUser.ConfirmPassword.isEmpty())
+        {
+            Toast.makeText(this, "New password and repeated password fields must contain a value!", Toast.LENGTH_SHORT).show();
+        }else
+        {
+            if(newUser.Password.equals(newUser.ConfirmPassword))
+            {
+                MyRunnable<UserVM> myCallback = new MyRunnable<UserVM>() {
+                    @Override
+                    public void run(UserVM user) {
+                        redirectToLogin();
+                    }
+                };
 
-        MyApiRequest.post(this, "/api/Users/", newUser, myCallback, null);
+                MyApiRequest.post(this, "/api/Users/", newUser, myCallback, null);
+            }else
+            {
+                Toast.makeText(this, "Passwords do not match!", Toast.LENGTH_SHORT).show();
+            }
+        }
     }
 
     private void redirectToLogin() {
